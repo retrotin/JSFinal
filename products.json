@@ -1,0 +1,68 @@
+{
+    "items": [
+        {
+            "sys": { "id": "1" },
+            "fields": {
+                "title": "MicroPocesador Intel i9",
+                "price": 90000,
+                "image": { "fields": { "file": { "url": "./assets/images/producto1.jpg" } } }
+            }
+        },
+        {
+            "sys": { "id": "2" },
+            "fields": {
+                "title": "MicroPocesador Ryzen 7",
+                "price": 79999,
+                "image": { "fields": { "file": { "url": "./assets/images/producto2.jpeg" } } }
+            }
+        },
+        {
+            "sys": { "id": "3" },
+            "fields": {
+                "title": "RAM Corsair RGB 8GB",
+                "price": 30000,
+                "image": { "fields": { "file": { "url": "./assets/images/producto3.jpg" } } }
+            }
+        },
+        {
+            "sys": { "id": "4" },
+            "fields": {
+                "title": "Gabinete Gamer Corsair BLANCO",
+                "price": 150000,
+                "image": { "fields": { "file": { "url": "./assets/images/producto4.jpg" } } }
+            }
+        },
+        {
+            "sys": { "id": "5" },
+            "fields": {
+                "title": "Teclado Mecanico",
+                "price": 15000,
+                "image": { "fields": { "file": { "url": "./assets/images/producto5.jpeg" } } }
+            }
+        },
+        {
+            "sys": { "id": "6" },
+            "fields": {
+                "title": "Monitor",
+                "price": 30000,
+                "image": { "fields": { "file": { "url": "./assets/images/producto6.jpg" } } }
+            }
+        },
+        {
+            "sys": { "id": "7" },
+            "fields": {
+                "title": "Placa Grafica",
+                "price": 360000,
+                "image": { "fields": { "file": { "url": "./assets/images/producto7.jpg" } } }
+            }
+        },
+        {
+            "sys": { "id": "8" },
+            "fields": {
+                "title": "Mouse Gamer",
+                "price": 8000,
+                "image": { "fields": { "file": { "url": "./assets/images/producto8.jpg" } } }
+            }
+        }
+    ]
+}
